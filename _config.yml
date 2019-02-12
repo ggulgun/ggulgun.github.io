@@ -1,0 +1,22 @@
+theme: minima
+title: offset's blog
+author: offset
+description: > Security Researcher
+google_analytics: UA-114731872-1
+timezone: Europe/Istanbul
+twitter_username: -
+github_username: ggulgun
+facebook_username: -
+instagram_username: -
+linkedin_username: -
+show_excerpts: false
+disqus:
+  shortname: https-ggulgun-github-io
+plugins:
+  - jekyll-feed
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+include:
+  - "_img"
