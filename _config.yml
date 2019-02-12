@@ -4,11 +4,11 @@ author: offset
 description: Security Researcher
 google_analytics: UA-114731872-1
 timezone: Europe/Istanbul
-twitter_username: 0
+twitter_username: none
 github_username: ggulgun
-facebook_username: 0
-instagram_username: 0
-linkedin_username: 0
+facebook_username: none
+instagram_username: none
+linkedin_username: ggulgun
 show_excerpts: false
 disqus:
   shortname: https-ggulgun-github-io
