@@ -1,14 +1,14 @@
 theme: minima
 title: offset's blog
 author: offset
-description: > Security Researcher
+description: Security Researcher
 google_analytics: UA-114731872-1
 timezone: Europe/Istanbul
-twitter_username: -
+twitter_username: 0
 github_username: ggulgun
-facebook_username: -
-instagram_username: -
-linkedin_username: -
+facebook_username: 0
+instagram_username: 0
+linkedin_username: 0
 show_excerpts: false
 disqus:
   shortname: https-ggulgun-github-io
